@@ -1,0 +1,11 @@
+body{
+	background: ivory;
+}
+ol{
+list-style-type: upper-roman;
+color: darkmagenta;
+}
+ul{
+list-style-type: square;
+color: darkorchid;
+}
