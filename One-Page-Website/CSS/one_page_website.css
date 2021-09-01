@@ -1,0 +1,18 @@
+html {
+   font-family: sans-serif; 
+   font-size: 20px;
+}
+
+input{
+    width: 50%;
+    margin:10px auto;
+    border: 2px solid #2F4F4F;
+    border-radius: 2px;
+}
+
+input[type="submit"] {
+    width: 20%;
+    margin:10px 10px;
+    border: 1px solid #2F4F4F;
+    border-radius: 7px;
+}
